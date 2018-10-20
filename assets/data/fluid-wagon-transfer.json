@@ -1,0 +1,12 @@
+{
+    "cheatSheet": {
+        "title": "Fluid Wagon Transfer",
+        "icon": "Fluid_wagon"
+    },
+    "data": {
+        "pumpRate": 12000,
+        "offshorePumpRate": 1200,
+        "storageTankSize": 25000,
+        "fluidWagonSize": 25000
+    }
+}
